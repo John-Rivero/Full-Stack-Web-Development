@@ -1,0 +1,30 @@
+img{
+    width: 500px;
+    height: 500px;
+}
+
+
+[id = 'red']{
+    font-weight: normal;
+    color: red;
+}
+
+[id = 'blue']{
+    font-weight: normal;
+    color: blue;
+}
+
+[id = 'orange']{
+    font-weight: normal;
+    color: orange;
+}
+
+[id = 'green']{
+    font-weight: normal;
+    color: green;
+}
+
+[id = 'yellow']{
+    font-weight: normal;
+    color: yellow;
+}

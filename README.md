@@ -2,10 +2,32 @@
 
 
 # Table of Contents
+
+
+
+- [27. Color Vocab Website](#27-Color-Vocab-Website)
+
+- [28. Online Portfolio](#28-Online-Portfolio)
+
 - [29. Birthday Invite](#29-Birthday-Invite)
 
 - [30. Movie Ranking](#30-Movie-Ranking)
 
+
+
+
+
+
+## [28. Color Vocab Website](https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio/tree/main/28.%20Online%20Portfolio)
+
+The primary objective of this project is to effectively utilize CSS to enhance the styling of the HTML file. This involves configuring various elements to improve their appearance, with a particular focus on adjusting the color of the texts and setting the size of the images. By leveraging CSS, we aim to achieve a visually appealing and cohesive design that enhances the overall user experience on the web page. This project will demonstrate how CSS can be applied to control and customize the presentation of HTML elements, ensuring that the text colors and image sizes are precisely tailored to meet the desired specifications.
+
+
+
+
+## [28. Online Portfolio](https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio/tree/main/28.%20Online%20Portfolio)
+
+he purpose of this project is to develop a comprehensive online portfolio featuring multiple pages to showcase various projects, with hyperlinks to other relevant websites for additional details and resources.
 
 
 
