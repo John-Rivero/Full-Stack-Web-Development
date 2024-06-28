@@ -21,7 +21,7 @@
 
 
 
-## [26. CSS Positioning](https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio/tree/main/26.%20Meme%20Poster)
+## [26. CSS Positioning](https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio/tree/main/25.%20CSS%20Positioning)
 
 The primary objective of this project is to design a website that visually represents the flag of Laos using CSS positioning techniques. The project aims to utilize advanced CSS properties to accurately recreate the flag's distinctive features, including its horizontal stripes and central white disc on a blue background. This endeavor will involve precise manipulation of CSS to ensure the correct alignment and proportions of the flag elements, showcasing the power and flexibility of CSS in creating intricate designs
 
